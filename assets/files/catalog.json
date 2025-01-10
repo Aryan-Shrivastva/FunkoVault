@@ -1,0 +1,91 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "The Batman",
+            "desc": "Batman(Battle Damaged)",
+            "desc2": "Batman has been kicking butt on the big screen ever since his debut in the original 1989 classic, however now he's going to kick some serious butt in the highly-anticipated The BatmanI To celebrate, Funko have unleashed a range of The Batman Pop Vinyl Figures. Set in his second year of fighting crime, The Batman sees the dark knight uncover corruption in Gotham City while pursuing the Riddler, a serial killer who targets Gotham's elite. This Pop features Batman wearing his fancy new Batsuit, which is looking a little worse for wear after some recent combat.",
+            "price": 149,
+            "color": "#33595a",
+            "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSGJBEtYaoTEW0zPSx-ZH2hwB9WY75FL7GTcWOzfD6URdP1vsi2yEqLHbH3FUqSTQZY3fHN4M90eImPmEpPm3L_2sGABVwPwWwd5T-ibH7bEH3lze2CgslV7Q&usqp=CAE"
+
+        },
+
+        {
+           "id": 2,
+            "name": "The Robin",
+            "desc": "Red Wings Robin Exclusive",
+            "desc2": "Look, I never wanted this for myself. but I wanted Batman and Robin back together the way they should be. And if Dick won't be Robin again. someone else has to! The third Robin, Tim Drake, the Red Wing Robin, is given a fun, and funky, stylized look as an adorable collectible Pop!",
+            "price": 299,
+            "color": "#B7AC0AFF",
+            "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRaakWG6pCKsbmIIovoqx_CTuF3Mmo2yugfLHNKcUMseNSGzQ3PD7cwrOf9lUtI9UGMtFO9bigAxuqKrPILNVElX7c39BB4yQ&usqp=CAE"
+ 
+        },
+
+        {
+            "id": 3,
+            "name": "Superman",
+            "desc": "Zack Synder JL Superman",
+            "desc2": "After what was one of the darkest periods for Hollywood of all time (thanks 2020), things are finally back on track with the release of the incredible Zack Snyder's Justice League, giving fans the chance to view the film as the director had originally intended. Like the theatrical release, Zack Snyder's Justice League follows the Justice League as they attempt to save the world from the catastrophic threat of Darkseid, Steppenwolf, and their army of Parademons. ",
+            "price": 249,
+            "color": "#F61515FF",
+            "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTJQIv3BK7TtVW5A77YUWnyrIbAh4K42hcj9kiOiir6-MIXN8uOsPqUxDMZj4I_PHvSUEEWsL7ijZQ186juAnLmLgEZ3ylWGbpByViBZOERhdvecMYD5rI_&usqp=CAE"
+
+        },
+
+        {
+            "id": 4,
+            "name": "The Joker",
+            "desc": "Batman Who Laughs",
+            "desc2": "The Batman Who Laughs was Bruce Wayne from Earth -22 of the Dark Multiverse. He is a lieutenant of Barbatos and the leader of the Dark Knights during the first Dark Multiverse invasion and, later, the infected heroes of the Secret Six. He convinced Perpetua, the creator of the multiverse, to choose him as her lieutenant over Lex Luthor as his ego limited his vision. The Batman Who Laughs continued on with his own plans, eventually acquiring cosmic power and becoming a threat bigger than Perpetua.",
+            "price": 399,
+            "color": "#060606FF",
+            "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSV6ZOeci5DM0Eoh4xxElSwgu_KF-U4qJWPHq8gwJrMnzN4TPZNuYG62GG51hvTJMVXnpsLYXl4lVYkJu8wyZ1jBWtwAlIyIjN20w_V6_pbotDhGe4W2RG6&usqp=CAE"
+
+        },
+
+        {
+            "id": 5,
+            "name": "Harley Quinn",
+            "desc": "Special Edition",
+            "desc2": "Mallet Mayhem Dive into the chaotic charm of Gotham's own with the Pop! Harley Quinn Animated Series Figure. This little gem captures the essence of Harley Quinn, straight from the adrenaline-packed series. Standing with her signature mallet coyly hidden behind her back, this figure embodies Harley's playful yet menacing persona. It's a must-have for fans, blending the iconic Funko style with the edgy, animated flair of the beloved antiheroine. Fun Details Crafted from durable vinyl, this figure is a vibrant representation of Harley's animated series look. The figure stands poised, ready to bring Harley's animated antics to life right on your shelf.",
+            "price": 349,
+            "color": "#F61515FF",
+            "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQjW4YsHg_cDUDcMqudI20jIfsFYvSw4geO9ZHxslr_yYwq3m6gi9iU6wSnaPXcQZZEgZuJg41-DO3OqveI-W4h32PWPkAz49htpDLdrFciGlXWLWcyNSBWfkhK&usqp=CAE"
+
+        },
+
+        {
+            "id": 6,
+            "name": "Captain Levi",
+            "desc": "AOT exclusive",
+            "desc2": "The fate of humanity hangs in the balance. Prepare your Attack on Titan collection for battle with Pop! Levi Ackerman. This exclusive figure is a skilled swordsman and an essential member to recruit into your regiment. Pop! figures bring your favorite characters to life with a unique stylized design. This Attack on Titan Captain Levi vinyl Funko Pop! figure stands approximately 4.55 inches tall and comes in window box packaging, making it great for display! ",
+            "price": 129,
+            "color": "#F61515FF",
+            "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQDFIiiK3hUlyf52Gx4VC2VQNFGMw1ExC7wfYqA3W00F0LrQYyNGMNf57Lj-IOu9mAB86g7GeyfrwpH_i5vHo8eYMhxeNTqquc8ZVxteWAgHOr6IgkvJqeEvg&usqp=CAE"
+
+        },
+
+        {
+            "id": 7,
+            "name": "Monkey D. Luffy",
+            "desc": "Luffy Gear Five",
+            "desc2": "Monkey D. Luffy is determined to become the Pirate King by finding Gol D. Roger's legendary treasure Complete your scurvy crew by adding this Pop! Luffy is determined to become the Pirate King by finding Gol D. Roger's legendary treasure. Complete your scurvy crew by adding this Pop! Luffy Gear Five to your One Piece collection! Vinyl figure is approximately 5.35-inches tall.",
+            "price": 299,
+            "color": "#F61515FF",
+            "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSQabwiclbWIFyUGJpzP0EnM5PeJZ7RtAo9ofvSh_y6dbNDqmVHesvgA1CrcNQ0tKEPWtv8SHE9zLT0GLHAP7fBVhDII9DvL9RwSUqedspiX8BXZj8pOtn6yw&usqp=CAE"
+
+        },
+
+        {
+            "id": 8,
+            "name": "Tanjiro Kamado",
+            "desc": "Sun Breathing",
+            "desc2":"Demon Slayer- Tanjiro with Flaming Blade #874 is a must-have collectible for fans of the immensely popular anime and manga series, “Demon Slayer: Kimetsu no Yaiba.” This figure captures the fierce determination and strength of the series’ protagonist, Tanjiro Kamado, as he wields his iconic flaming blade. Whether you’re a dedicated fan of the series or a Funko Pop! enthusiast, this figure is an exceptional addition to any collection.",
+            "price": 199,
+            "color": "#F61515FF",
+            "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcROKe3MpBBnnmEJ365zOjcBPLIMnzUC6J6lCGar1YLsudglXyt1_RF5NcfqdQKndQZPPJCZyl8IM1BwruvWGqLkBebazS0BHLesf78TPhmPgVZk-2nCRNfFsA&usqp=CAE"
+
+        }
+    ]
+}
